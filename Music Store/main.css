@@ -1,0 +1,44 @@
+
+.main h1{
+    color: red;
+    
+}
+.main li{
+    list-style-type:none;
+}
+.main h2{
+    color: rgb(193, 49, 212);
+}
+
+.main{
+    display: grid;
+    justify-content: center;
+
+}
+.main ul li{
+    display: inline;
+   margin: 5px;
+}
+
+.anasayfa{
+    text-align: center;
+}
+.enstruman{
+    display: grid;
+  justify-content: center;
+  
+}
+.enstruman li{
+    margin: 5px;
+}
+.anasayfa h3{
+color: rgb(204, 177, 24);
+}
+
+img{
+    width: 150px;
+    height: 220px;
+}
+.title{
+    color:rgb(204, 177, 24);
+}
