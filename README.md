@@ -1,2 +1,2 @@
-# kodluyoruz-dev-HTML-CSS
+# kodluyoruz-HTML/CSS
 HTML ve CSS ile temel düzeyde bir Müzik Aletleri Mağaza Sitesi ..
